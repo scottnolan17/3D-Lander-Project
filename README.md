@@ -1,6 +1,6 @@
 # 3D-Lander-Project
 
-This was my final project for my Intro to Game Development course. It's a 3D game showcasing physics and collision, but is conceptually very simple; just try to fly the lander to the green destination box without crashing.
+This was my final project for my Intro to Game Development course. It's a 3D game showcasing physics and collision, but is conceptually very simple; just try to fly the lander to the green destination box without crashing. This was a solo project in C++.
 
 Features of this project:
   - 3 dimensional physics inlcuding particle emissions, gravity, and player controlled thrust
